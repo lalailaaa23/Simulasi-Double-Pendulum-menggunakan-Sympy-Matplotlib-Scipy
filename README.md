@@ -1,0 +1,1 @@
+# Simulasi-Double-Pendulum-menggunakan-Sympy-Matplotlib-Scipy
